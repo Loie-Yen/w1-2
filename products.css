@@ -9,6 +9,9 @@
 }
 body{
     font-family: "Noto Sans TC", sans-serif;
+    
 }
 
-.
+.category .active{
+    color: #57A203;
+}
